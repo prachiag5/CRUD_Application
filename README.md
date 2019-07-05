@@ -10,6 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 #BackEnd Application
+Need to start the mongoDB server in database and create a database named mydb
 Set up Virtual Environment folder(env) inside the backend application
 ##py -m venv env
 Activate the Virtual Environment
